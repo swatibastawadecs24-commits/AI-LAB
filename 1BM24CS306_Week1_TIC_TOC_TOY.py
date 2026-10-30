@@ -1,5 +1,3 @@
-
-
 board = [" " for _ in range(9)]
 
 def display_board():
